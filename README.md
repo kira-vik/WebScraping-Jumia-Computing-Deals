@@ -25,9 +25,9 @@
 <!--ABOUT THE PROJECT-->
 ## About the Project
 
-![web_scraping](https://github.com/kira-vik/WebScraping-with-Python/assets/35596661/8111a3f6-9d79-4df9-9aed-6a690b5af3de)
+![jumiascraping](https://github.com/kira-vik/WebScraping-Jumia-Computing-Deals/assets/35596661/5c0642d4-827b-44be-8b13-ff1458bf99f3)
 
-This project builds on the knowledge acquired from completing [this](https://github.com/kira-vik/WebScraping-with-Python) project, which acted as a learning point for web scraping using the BeautifulSoup library. The scraped data is held in a Pandas Dataframe, which is then exported into an external file, which in this case is a CSV file. The web scraping playground used for this project is [www.jumia.co.ke/mlp-black-friday-h-computing-deals](https://www.jumia.co.ke/mlp-black-friday-h-computing-deals/), where we retrieve details of products in the computing deals catalog such as the product title, the current and old price, the percentage discount on the product, the star rating, and the verified ratings count for the product. This project helps polish skill and understanding of the mechanism of web scraping.
+This project builds on the knowledge acquired from completing [this](https://github.com/kira-vik/WebScraping-with-Python) project, which acted as a learning point for web scraping using the BeautifulSoup library. The scraped data is held in a Pandas Dataframe, which is then exported into an external file, which in this case is a CSV file. The web scraping playground used for this project is [www.jumia.co.ke/mlp-black-friday-h-computing-deals](https://www.jumia.co.ke/mlp-black-friday-h-computing-deals/), where we retrieve details of products in the computing deals catalog such as the product title, the current and old price, the percentage discount on the product, the star rating, and the verified ratings count for the product. This project helps polish skills and understanding of the mechanism of web scraping.
 
 This project has been developed in VS Code, but it is okay to use your code editor of choice.
 
