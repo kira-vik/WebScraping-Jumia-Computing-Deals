@@ -105,7 +105,7 @@ You can run the code cell by cell as is the case with Jupyter Notebooks.
 
 Victor Weke - @[kira-vik](https://github.com/kira-vik)
 
-Project Link: [WebScraping-with-Python](https://github.com/kira-vik/WebScraping-with-Python)
+Project Link: [WebScraping-Jumia-Computing-Deals](https://github.com/kira-vik/WebScraping-Jumia-Computing-Deals)
 
 > DON'T PRACTISE UNTIL YOU GET IT RIGHT, PRACTISE UNTIL YOU *NEVER* GET IT WRONG
 >
